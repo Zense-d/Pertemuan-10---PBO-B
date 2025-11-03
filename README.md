@@ -1,6 +1,6 @@
-# Pertemuan-11---PBO-B
+# Pertemuan-10---PBO-B
 
 Source code : OnlineShop  
-Tugas pertemuan 11 - PBO B  
+Tugas pertemuan 10 - PBO B  
 Fauzan Hafiz Amandani  
 5025241087
